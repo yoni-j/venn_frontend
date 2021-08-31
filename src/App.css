@@ -13,6 +13,11 @@
   }
 }
 
+.MuiTable-root {
+  width: 75%!important;
+  margin-top: 30px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -26,6 +31,10 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.header {
+  font-weight: bold!important;
 }
 
 @keyframes App-logo-spin {
